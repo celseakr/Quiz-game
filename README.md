@@ -22,6 +22,9 @@ Open `index.html` in a web browser.
 
 ## 📸 Preview
 
-<img width="593" height="407" alt="image" src="https://github.com/user-attachments/assets/92112819-3c12-4573-9d80-c79b5a73e21d" />
-<img width="593" height="407" alt="image" src="https://github.com/user-attachments/assets/7dfe6e55-0c69-489e-91ab-dc92b6bce08c" />
+<img width="612" height="412" alt="image" src="https://github.com/user-attachments/assets/7a7538e2-7594-48ca-a06f-6c95aff1c65c" />
+<img width="601" height="411" alt="image" src="https://github.com/user-attachments/assets/0c9eb94d-d98a-432d-87a1-3bd938f42d8f" />
+<img width="625" height="412" alt="image" src="https://github.com/user-attachments/assets/852e79d2-002c-4bf6-addd-6fa70140f802" />
+
+
 
